@@ -1,1 +1,1 @@
-test.py: 3, main2.py: 6, lib/test3.py:1,tempdir3/test6.py:5,templib/libA/libB/test7.py:2
+test.py: 3
